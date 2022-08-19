@@ -1,9 +1,25 @@
-### Sejam bem-vindos, meu nome é Rafael Roesler Otto 😎
-- Estudante de Ciência da Computação pela Universidade Estadual do Centro-Oeste - Unicentro;
-- Estudante de Análise e Desenvolvimento de Sistemas pela UniGuairacá;
-- Trabalhando em alguns projetos pessoais em PHP e Laravel;
-- Não deixe de conferir os meus trabalhos, fique a vontade!
+### Sejam bem-vindo, meu nome é Rafael Roesler Otto 👨‍💻
 
+<img src="https://drive.google.com/uc?id=1BiDTB8lU9fVgDyU7fWFUTHghnbmN0IQb" width="300px">
+<br>
+📚 Graduando em Ciência da Computação pela Universidade Estadual do Centro-Oeste - Unicentro;
+<br>
+📚 Graduando em Análise e Desenvolvimento de Sistemas pela UniGuairacá;
+<br>
+💻 Trabalhando em alguns projetos pessoais em PHP e Laravel;
+<br>
+💡 Não deixe de conferir os meus trabalhos, fique a vontade!
+<br>
+<br>
+
+### Ferramentas e Tecnologias
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+
+### Aprendendo sobre
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
 <br>
 <div align="center">
  <a href="https://github.com/rafaelrotto">
