@@ -1,4 +1,4 @@
-### Sejam bem-vindo, meu nome é Rafael Roesler Otto 👨‍💻
+### Seja bem-vindo, meu nome é Rafael Roesler Otto 👨‍💻
 
 <img src="https://drive.google.com/uc?id=1BiDTB8lU9fVgDyU7fWFUTHghnbmN0IQb" width="300px">
 <br>
