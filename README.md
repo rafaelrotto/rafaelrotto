@@ -6,7 +6,7 @@
 <br>
 📚 Graduando em Análise e Desenvolvimento de Sistemas pela UniGuairacá;
 <br>
-💻 Full Stack Developer na 3C+ (Laravel + Vue JS)
+💻 Full Stack Developer na 3CPlus (Laravel + Vue JS)
 <br>
 💡 Não deixe de conferir os meus trabalhos, fique a vontade!
 <br>
