@@ -2,11 +2,11 @@
 
 <img src="https://drive.google.com/uc?id=1BiDTB8lU9fVgDyU7fWFUTHghnbmN0IQb" width="300px">
 <br>
-📚 Graduando em Ciência da Computação pela Universidade Estadual do Centro-Oeste - Unicentro;
+📚 Graduado em Ciência da Computação pela Universidade Estadual do Centro-Oeste - Unicentro;
 <br>
-📚 Graduando em Análise e Desenvolvimento de Sistemas pela UniGuairacá;
+📚 Graduado em Análise e Desenvolvimento de Sistemas pela UniGuairacá;
 <br>
-💻 Full Stack Developer na 3CPlus (Laravel + Vue JS)
+💻 Back-end Developer na 3CPlus (PHP - Laravel)
 <br>
 💡 Não deixe de conferir os meus trabalhos, fique a vontade!
 <br>
