@@ -6,7 +6,7 @@
 <br>
 📚 Graduado em Análise e Desenvolvimento de Sistemas pela UniGuairacá;
 <br>
-💻 Back-end Developer na 3CPlus (PHP - Laravel)
+💻 Squad Lead na 3CPlus
 <br>
 💡 Não deixe de conferir os meus trabalhos, fique a vontade!
 <br>
