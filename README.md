@@ -6,7 +6,7 @@
 <br>
 📚 Graduado em Análise e Desenvolvimento de Sistemas pela UniGuairacá;
 <br>
-💻 Squad Lead na 3CPlus
+💻 Tech Lead no Skolen
 
 ###
 
