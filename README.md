@@ -24,5 +24,7 @@
 
 ###
 
+<a href="https://wakatime.com/@018b1eb3-4dfd-40fe-ba1e-5ed4a37e9e28"><img src="https://wakatime.com/badge/user/018b1eb3-4dfd-40fe-ba1e-5ed4a37e9e28.svg" alt="Total time coded since Oct 11 2023" /></a>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
