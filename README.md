@@ -7,7 +7,9 @@
 📚 Graduado em Análise e Desenvolvimento de Sistemas pela UniGuairacá;
 <br>
 💻 Tech Lead no Skolen
+<br>
 💻 CTO na Orbi Edtech
+<br>
 💻 Gestor de TI no Centro Universitário Guairacá
 
 ###
