@@ -28,7 +28,7 @@
 
 ###
 
-![](https://komarev.com/ghpvc/?username=rafaelrotto&color=red)
+![](https://komarev.com/ghpvc/?username=rafaelrotto&color=blue)
 
 ###
 
